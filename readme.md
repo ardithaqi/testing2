@@ -1,4 +1,0 @@
-#testing
-
-yo sup G
-!!!
